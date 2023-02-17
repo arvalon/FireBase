@@ -9,7 +9,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String TAG = "vga";
+    public static final String TAG = "firewalker.log";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
